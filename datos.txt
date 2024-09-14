@@ -1,0 +1,14 @@
+conda env list -> Lista de los ambientes.
+
+conda create -n mi_primer_ambiente
+'Cambiar la version de instalacion de Python'
+conda create -n mi_segundo_ambiente python = 3.12
+
+conda activate mi_primer_ambiente
+conda deactivate
+conda install pip
+pip install poetry ipykernel
+poetry init
+poetry install
+
+
