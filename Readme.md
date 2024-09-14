@@ -1,3 +1,3 @@
 # Miprimer proyecto
-En este proyecto alojamos los cuadernos que trabajamos ene estadistica
+En este proyecto alojamos los cuadernos que trabajamos en estadistica
 
